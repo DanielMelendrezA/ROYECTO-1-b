@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+//esdras daniel
 void menuAcciones(); // Declaración de funciones
 void mostrarRecursos();
 void explorarPlaneta();
